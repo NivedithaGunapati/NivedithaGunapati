@@ -12,7 +12,7 @@ I'm pursuing B.Tech 3rd year in Computer Science.💻
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRphc7NvjvTvAHPj8YHtQ0dzhGxFqcSvFWG20k-_lgBaA&s"style="height:100px;width:100px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE_mdhFFab5LNTxO1vwBODhLUK0u1ffKATNg&usqp=CAU"style="height:100px;width:100px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-fpNXjanFSDa_v1PJG_68A4lNZdET5zgHQ&usqp=CAU"style="height:100px;width:100px">
-<img src=""style="height:100px;width:100px">
+<img src="https://qph.cf2.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc"style="height:100px;width:100px">
 
 <h3>My Details:</h3>
 a href="https://www.linkedin.com/in/phani-v-274186266" target="_blank">
