@@ -1,4 +1,4 @@
-<h2>Hey there 👋 </h2>
+<h2 align="center">Hey there 👋 </h2>
 <p>I am <b>Ms.Niveditha Gunapati</b> and Undergraduate student in the stream of Computer Science from RGUKT RKValley</p>
 <h3 align="left"><b>👩‍💻 About me</b></h3>
 <p><tt>I'm Niveditha<br>
