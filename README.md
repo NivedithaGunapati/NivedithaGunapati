@@ -15,12 +15,9 @@ I'm pursuing B.Tech 3rd year in Computer Science.💻
 <img src="https://qph.cf2.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc"style="height:100px;width:100px">
 
 <h3>My Details:</h3>
-a href="https://www.linkedin.com/in/phani-v-274186266" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=8688794279&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=phanivutla2004@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </div>
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"style="height:50px;width:50px">
+<img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"style="height:50px;width:50px">
+
 <!---
 NivedithaGunapati/NivedithaGunapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
