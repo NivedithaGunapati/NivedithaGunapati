@@ -1,4 +1,5 @@
-<h2 align="center">Hey there </h2>
+<body style="background-color:black">
+<h2 align="center">Hey there 👋 </h2>
 <p>I am <b>Ms.Niveditha Gunapati</b> and Undergraduate student in the stream of Computer Science from RGUKT RKValley</p>
 <h3 align="left"><b>👩‍💻 About me</b></h3>
 <br>
@@ -19,6 +20,7 @@ a href="https://www.linkedin.com/in/phani-v-274186266" target="_blank">
   </a>
   <img src="https://img.shields.io/static/v1?message=8688794279&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
   <img src="https://img.shields.io/static/v1?message=phanivutla2004@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </body>
 <!---
 NivedithaGunapati/NivedithaGunapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
